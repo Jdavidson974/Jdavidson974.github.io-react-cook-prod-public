@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.11ea6e55.css",
-    "main.js": "/static/js/main.c1254c2f.js",
-    "index.html": "/index.html",
-    "main.11ea6e55.css.map": "/static/css/main.11ea6e55.css.map",
-    "main.c1254c2f.js.map": "/static/js/main.c1254c2f.js.map"
+    "main.css": "/Jdavidson974.github.io-react-cook-prod-public/static/css/main.11ea6e55.css",
+    "main.js": "/Jdavidson974.github.io-react-cook-prod-public/static/js/main.c1254c2f.js",
+    "index.html": "/Jdavidson974.github.io-react-cook-prod-public/index.html",
+    "main.11ea6e55.css.map": "/Jdavidson974.github.io-react-cook-prod-public/static/css/main.11ea6e55.css.map",
+    "main.c1254c2f.js.map": "/Jdavidson974.github.io-react-cook-prod-public/static/js/main.c1254c2f.js.map"
   },
   "entrypoints": [
     "static/css/main.11ea6e55.css",
